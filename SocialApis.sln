@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialApis", "SocialApis\SocialApis.csproj", "{BBE48D02-B4AC-413A-AE61-FD60EBFECCA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE48D02-B4AC-413A-AE61-FD60EBFECCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE48D02-B4AC-413A-AE61-FD60EBFECCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE48D02-B4AC-413A-AE61-FD60EBFECCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE48D02-B4AC-413A-AE61-FD60EBFECCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32052025-F5C9-4AD7-A289-9DDFE4DF316D}
+	EndGlobalSection
+EndGlobal
