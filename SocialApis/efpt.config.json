@@ -1,6 +1,8 @@
 ﻿{
    "CodeGenerationMode": 3,
+
    "ContextClassName": "DB_SocialContext",
+
    "ContextNamespace": null,
    "DefaultDacpacSchema": null,
    "FilterSchemas": false,
@@ -36,12 +38,14 @@
       }
    ],
    "UiHint": "desktop-8rf8dpt.DB_Social.dbo",
+
    "UncountableWords": null,
    "UseBoolPropertiesWithoutDefaultSql": false,
    "UseDatabaseNames": true,
    "UseDateOnlyTimeOnly": false,
    "UseDbContextSplitting": false,
-   "UseFluentApiOnly": true,
+
+   "UseFluentApiOnly": false,
    "UseHandleBars": false,
    "UseHierarchyId": false,
    "UseInflector": true,
